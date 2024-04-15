@@ -1,7 +1,10 @@
 
 body{
-    background-color: lightgray;
+  background-image: url(/assets/img/blue-fondo.jpg);
+  background-repeat: no repeat;
+  background-size: cover;
 }
+
 header{
     display: flex;
     align-items: center;
